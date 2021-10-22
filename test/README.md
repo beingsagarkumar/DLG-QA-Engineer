@@ -1,5 +1,5 @@
 Steps to setup project:
-1. Clone the project from the git repo.
+1. Clone the project from the git repo  https://github.com/beingsagarkumar/DLG-QA-Engineer.git.
 
 Steps to execute suite:
 1. Either open the directory in cmd and run "mvn clean install". It will build all dependencies and execute the TestRunner class.
