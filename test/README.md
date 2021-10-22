@@ -19,3 +19,4 @@ Note:
 1. Test cases are written in LogInTest.Feature file with various scenarios for valid and invalid credentials validating data type and length of the fields.
 2. User can run suite on any environment supporting java and maven.
 3. Test scripts response is available in JUnit console/console of IDE. 
+4. Reporting and other features are not implemented to provide the solution early.
