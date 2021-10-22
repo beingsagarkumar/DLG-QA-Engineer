@@ -13,6 +13,7 @@ Points for improvement:
 3. Adding logs using logger and steps for logs.
 4. Making project more dynamic for future requirements.
 5. Project can be integrated on CI pipeline (Jenkins/GitLab) using yml file.
+6. For Reporting, logs and screenshots files, an additional directory is to be created in src.
 
 Note:
 1. Test cases are written in LogInTest.Feature file with various scenarios for valid and invalid credentials validating data type and length of the fields.
